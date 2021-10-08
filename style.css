@@ -1,0 +1,86 @@
+li {
+    margin-bottom: 15px;
+}
+.example-1 {
+    width: 70px;
+    padding: 10px 20px;
+    border: 2px solid black;
+}
+.example-2 {
+    color: black;
+    background-color: coral;
+    width: 80px;
+    padding: 10px 0px;
+    text-align: center;
+}
+.example-3 {
+    width: 70px;
+    color: red;
+    font-size: 17px;
+    border: dashed 3px red;
+    padding: 10px;
+    font: bold;
+}
+.example-4 {
+    color: darkblue;
+    width: 150px;
+    padding: 10px 20px;
+    border: dotted 8px green;
+    font-weight: bold;
+    text-align: center;
+}
+.example-5 {
+    color: gold;
+    width: 70px;
+    border: solid 5px green;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    padding: 10px;
+    
+}
+.example-6 {
+    color: white;
+    background-color: black;
+    width: 120px;
+    text-align: end;
+    border: solid 1px;
+    padding: 10px;
+
+}
+.example-7 {
+    color: burlywood;
+    background-color: rgb(255, 255, 236); 
+    padding: 12px;
+    border: solid 3px burlywood;
+    width: 120px;
+}
+.example-8 {
+    color: white;
+    background-color: blueviolet;
+    width: 125px;
+    border: dashed 5px blue;
+    text-align: center;
+}
+.example-9 {
+    color: white;
+    background-color: darkred;
+    border: solid 1px;
+    text-align: center;
+    width: 110px;
+    height: 25px;
+    text-align: center;
+    padding-top: 10px;
+    border: dotted 20px coral;
+}
+
+.example-10 {
+color: white;
+background-color: goldenrod;
+width: 70px;
+text-align: center;
+padding-top: 10px;
+padding-bottom: 10px;
+padding: 10px;
+border: dashed 19px white;
+}
