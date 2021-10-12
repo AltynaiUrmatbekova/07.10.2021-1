@@ -57,5 +57,12 @@ border-bottom-color: pink;
     border: solid 3px burlywood;
     width: 120px;
 }
+.example-8 {
+    color: white;
+    background-color: blueviolet;
+    width: 125px;
+    border: dashed 5px blue;
+    text-align: center;
+}
 
 
