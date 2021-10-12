@@ -21,3 +21,11 @@ li {
     padding: 10px;
     font: bold;
 }
+.example-4 {
+    color: darkblue;
+    width: 150px;
+    padding: 10px 20px;
+    border: dotted 8px green;
+    font-weight: bold;
+    text-align: center;
+}
