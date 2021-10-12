@@ -42,3 +42,12 @@ border-left-color: lightskyblue;
 border-right-color: black;
 border-bottom-color: pink;
 }
+.example-6 {
+    color: white;
+    background-color: black;
+    width: 120px;
+    text-align: end;
+    border: solid 1px;
+    padding: 10px;
+}
+
