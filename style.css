@@ -150,6 +150,12 @@ hr {
     padding: 20px;
     font-weight: bold;
  }
- 
+ #button-2 {
+    background-color: pink;
+    padding: 15px;
+    font-weight: bold;
+    border: 0px;
+}
+
 
 
