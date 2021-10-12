@@ -6,3 +6,10 @@ li {
     padding: 10px 20px;
     border: 2px solid black;
 }
+.example-2 {
+    color: black;
+    background-color: coral;
+    width: 80px;
+    padding: 10px 0px;
+    text-align: center;
+}
