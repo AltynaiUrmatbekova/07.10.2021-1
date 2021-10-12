@@ -13,3 +13,11 @@ li {
     padding: 10px 0px;
     text-align: center;
 }
+.example-3 {
+    width: 70px;
+    color: red;
+    font-size: 17px;
+    border: dashed 3px red;
+    padding: 10px;
+    font: bold;
+}
