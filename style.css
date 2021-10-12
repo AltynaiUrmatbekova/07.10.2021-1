@@ -216,6 +216,12 @@ hr {
     border: 15px dotted peachpuff;
     font-weight: bold;
 }
+#button-10 {
+    color: white;
+    background-color: goldenrod;
+    border: dashed 13px;
+}
+
 
 
 
