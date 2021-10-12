@@ -29,3 +29,16 @@ li {
     font-weight: bold;
     text-align: center;
 }
+.example-5 {
+color: gold;
+width: 70px;
+border: solid 5px;
+text-align: center;
+text-decoration: underline;
+font-weight: bold;
+padding: 10px;
+border-top-color: green;
+border-left-color: lightskyblue;
+border-right-color: black;
+border-bottom-color: pink;
+}
