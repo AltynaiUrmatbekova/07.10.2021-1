@@ -209,6 +209,13 @@ hr {
     font-size: large;
     width: 150px;
 }
+#button-9 {
+    color: white;
+    background-color: crimson;
+    padding: 10px;
+    border: 15px dotted peachpuff;
+    font-weight: bold;
+}
 
 
 
