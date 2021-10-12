@@ -184,6 +184,13 @@ hr {
     border-right-color: black;
     border-left-color: cornflowerblue;
 }
+#button-6 {
+    color: white;
+    background-color: black;
+    text-align: right;
+    width: 120px;
+    padding: 10px;
+}
 
 
 
